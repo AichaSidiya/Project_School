@@ -10,16 +10,16 @@ using namespace std;
 Taken::Taken(){
   ptrStudent = nullptr;
   ptrCourse = nullptr;
-  grade = '\0';
+  grade = "";
 } //ddefault constructor
 
-Taken::Taken(Student* myptrStudent, Course* myptrCourse, char myGrade){
+Taken::Taken(Student* myptrStudent, Course* myptrCourse, string myGrade){
   ptrStudent = myptrStudent;
   ptrCourse = myptrCourse;
   grade = myGrade;
 } //constructor
 
-void Taken::set(Student*  myptrStudent, Course*  myptrCourse, char myGrade){
+void Taken::set(Student*  myptrStudent, Course*  myptrCourse, string myGrade){
   ptrStudent = myptrStudent;
   ptrCourse = myptrCourse;
   grade = myGrade;
