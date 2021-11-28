@@ -2,10 +2,10 @@ TARGETS	=	project
 
 all:	$(TARGETS)
 
-project:	ProjectTestDriver.o Student.o  Course.o
-	g++ -o project ProjectTestDriver.o Student.o Course.o
+project:	ProjectTestDriver.o Student.o  Course.o Taken.o
+	g++ -o project ProjectTestDriver.o Student.o Course.o Taken.o
 
-ProjectTestDriver.o:	ProjectTestDriver.cc Student.h  Course.h
+ProjectTestDriver.o:	ProjectTestDriver.cc Student.h  Course.h Taken.h
 	g++ -c ProjectTestDriver.cc
 
 Student.o: Student.cc Student.h
@@ -14,5 +14,7 @@ Student.o: Student.cc Student.h
 Course.o: Course.cc Course.h
 	g++ -c Course.cc
 
+Taken.o: Taken.cc Taken.h
+	g++ -c Taken.cc
 clean:
 	rm -f *.o project
