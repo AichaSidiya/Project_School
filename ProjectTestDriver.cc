@@ -52,7 +52,7 @@ int main(){
 
   //----------Taken-----------
   Student *ptrStudent1;
-  char grade;
+  string grade;
   Course *ptrCourse;
   Taken taken1[numCourse];
 
