@@ -5,13 +5,13 @@ private:
   //attributes
   Student* ptrStudent; //pointer to Student object
   Course* ptrCourse; //pointer to Course object
-  char grade;
+  string grade;
 
 public:
   //methods
   Taken();//default constructor
-  Taken(Student*, Course*, char); //constructor
-  void set(Student*, Course*, char); //setting data
+  Taken(Student*, Course*, string); //constructor
+  void set(Student*, Course*, string); //setting data
   Student* getStudent(); //getter Student
   Course* getCourse(); //getter Course
   void print();//print data
