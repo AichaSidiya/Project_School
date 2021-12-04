@@ -24,7 +24,7 @@ The project is a menu driven program divided into multiple class. The program sh
 * Look for Run Terminal in your search bar
 * Open it and use the:
 ```
-cd"
+cd
 ```
 command to go to the specified directory.
 * Use 
