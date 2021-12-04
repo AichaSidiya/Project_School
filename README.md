@@ -1,4 +1,4 @@
-# Project Title
+# Stars University 
 
 This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
 
