@@ -1,18 +1,18 @@
 <!--Title-->
 # Stars University 
-
+<!--Content Table-->
 ## Content
-- [Stars University](#stars-university)
-  * [Purpose](#purpose)
-  * [Description](#description)
-  * [Getting Started](#getting-started)
-    + [Dependencies](#dependencies)
-    + [Installing](#installing)
-    + [Executing program](#executing-program)
-      - [How to run the program](#how-to-run-the-program)
-  * [Authors](#authors)
-  * [License](#license)
-  * [Acknowledgments](#acknowledgments)
+- [Stars University](#stars-university) <!--Link to the title of the project-->
+  * [Purpose](#purpose) <!--Link to the purpose of the project-->
+  * [Description](#description) <!--Link to the description of the project-->
+  * [Getting Started](#getting-started) <!--Link to the steps for launching the project-->
+    + [Dependencies](#dependencies) <!--Link to Dependencies-->
+    + [Installing](#installing) <!--Link to Installation-->
+    + [Executing program](#executing-program) <!--Link to Execution-->
+      - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
+  * [Authors](#authors) <!--Link to the Contributors of the project-->
+  * [License](#license) <!--Link to the Liscence of the project-->
+  * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
 ## Purpose
 <!--Purpose of the project-->
