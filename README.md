@@ -1,5 +1,20 @@
 <!--Title-->
 # Stars University 
+
+## Content
+- [Stars University](#stars-university)
+  * [Purpose](#purpose)
+  * [Description](#description)
+  * [Getting Started](#getting-started)
+    + [Dependencies](#dependencies)
+    + [Installing](#installing)
+    + [Executing program](#executing-program)
+      - [How to run the program](#how-to-run-the-program)
+  * [Authors](#authors)
+  * [License](#license)
+  * [Acknowledgments](#acknowledgments)
+
+## Purpose
 <!--Purpose of the project-->
 This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
 
