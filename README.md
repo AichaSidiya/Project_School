@@ -42,18 +42,21 @@ The project is a menu driven program divided into multiple class. The program sh
 #### How to run the program
 * Look for Run Terminal in your search bar
 * Open it and use the:
+<!--commands to run the program "cd" change directory to where your files are-->
 ```
-cd <!--commands to run the program "cd" change directory to where your files are-->
+cd 
 ```
 command to go to the specified directory.
-* Use 
+* Use
+<!--commands to run the program "make project" compile the program--> 
 ```
-make project <!--commands to run the program "make project" compile the program-->
+make project 
 ```
 to compile the all the project files.
 * Than type 
+<!--commands to run the program "project" run and executes program-->
 ```
-project <!--commands to run the program "project" run and executes program-->
+project 
 ```
 to execute and run the program.
 
