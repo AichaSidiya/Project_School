@@ -10,6 +10,7 @@
     + [Installing](#installing) <!--Link to Installation-->
     + [Executing program](#executing-program) <!--Link to Execution-->
       - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
+    + [Help](#help) <!--Link to Execution-->
   * [Authors](#authors) <!--Link to the Contributors of the project-->
   * [License](#license) <!--Link to the Liscence of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
@@ -22,6 +23,31 @@ This poject is a Stars University database. The purpose of this project is to bu
 ## Description
 
 The project is a menu driven program divided into multiple class. The program should display the menu and asks the user to choose whether to display the student information extrated from the student class and statArray class, or display the course information using the course and DynArray class. display the Taken objects which are the information of a course taken by a particular student the program uses the Taken class to diplay the information. Finally, the user can add a Taken object using the DynArray class.
+<!-- Files of the project-->
+## Files
+
+### Header Files
+
+* Control.h
+* Course.h
+* DynArray.h
+* School.h
+* StatArray.h
+* Student.h
+* Taken.h
+* View.h
+
+### Source Files
+
+* Control.cc
+* Course.cc
+* DynArray.cc
+* School.cc
+* StatArray.cc
+* Student.cc
+* Taken.cc
+* View.cc
+* ProjectTestDriver.cc
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
@@ -60,6 +86,14 @@ project
 ```
 to execute and run the program.
 
+### Help
+If the code does not compile use 
+<!--commands to remove object and excevutable files "project"-->
+```
+make clean
+```
+to remove object and excevutable files.
+
 ## Authors
 <!-- The contributors to the project-->
 * Aicha Sidiya-S20106146
@@ -67,9 +101,6 @@ to execute and run the program.
 * Lamr Aljahdali-S20106219
 * Joud Kaki-S20106234
 
-## License
-<!-- Project Liscence-->
-This project is licensed under the [Open Database License (ODbL)] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 <!-- Insparation files, codes, and general refrences used in writing the code of the project-->
