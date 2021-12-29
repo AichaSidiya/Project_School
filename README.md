@@ -100,10 +100,10 @@ to remove object and excevutable files.
 
 ## Authors
 <!-- The contributors to the project-->
-* Aicha Sidiya-S20106146
-* Hanin Alzaher-S20106145
-* Lamr Aljahdali-S20106219
-* Joud Kaki-S20106234
+* [Aicha Sidiya](https://github.com/AichaSidiya)
+* Hanin Alzaher
+* Lamr Aljahdali
+* Joud Kaki
 
 
 ## Acknowledgments
