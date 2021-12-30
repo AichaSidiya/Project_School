@@ -71,12 +71,17 @@ The project is a menu driven program divided into multiple class. The program sh
 <!--Steps for running the program-->
 #### How to run the program
 * Look for Run Terminal in your search bar
+
+![1](https://user-images.githubusercontent.com/91727165/147670861-656858af-39d9-4865-8280-6dd20e2e7421.png)
+
 * Open it and use the:
 <!--commands to run the program "cd" change directory to where your files are-->
 ```
 cd 
 ```
 command to go to the specified directory.
+<img width="675" alt="2" src="https://user-images.githubusercontent.com/91727165/147670878-5bbd41cd-9d79-4389-b9bd-7dd9fbbe62cf.PNG">
+
 * Use
 <!--commands to run the program "make project" compile the program--> 
 ```
