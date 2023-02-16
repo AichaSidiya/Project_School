@@ -23,17 +23,20 @@
 <!--Purpose of the project-->
 This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
 
+![demoSchool](https://user-images.githubusercontent.com/91727165/219333482-0064fd83-edef-466f-8b30-fb262986f76c.gif =250x250)
+
 <!--Header 2 description of the project-->
 ## Description
 <p style="text-align: justify">
 The project is a menu driven program divided into multiple class. The program should display the menu and asks the user to choose whether to display the student information extrated from the Student class and DynArray class, or display the course information using the Course and StatArray class, display the Taken objects which are the information of a course taken by a particular student the program uses the Taken and School class to diplay the information. Finally, the user can add a Taken object using the DynArray class. The flow of the project is implemented in the Control class and the View is used to display the menu.</p>
 
 ## Menu
-* Print Student
-* Print Courses
-* Print all courses taken - prints course name, grade taken by a particular student
-* Add course taken by student
-* Quit
+* (1) Print Student
+* (2) Print Courses
+* (3) Print all courses taken - prints student, course name, grade
+* (4) Print course taken by student - print student name, course name, grade
+* (5) Add course taken by student
+* (0) Exit
 
 <!-- Files of the project-->
 ## Files
