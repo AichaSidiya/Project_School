@@ -23,7 +23,7 @@
 <!--Purpose of the project-->
 This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
 
-<img src="https://github.com/AichaSidiya/Project_School/blob/main/demoSchool.gif" width=700 height=300 />
+<img src="https://github.com/AichaSidiya/Project_School/blob/main/demoSchool.gif"/>
 
 
 <!--Header 2 description of the project-->
