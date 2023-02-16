@@ -119,7 +119,7 @@ to remove object and excevutable files.
 ## Authors
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
-* Hanin Alzaher
+* [Hanin Alzaher](https://github.com/hanin-az)
 * Lamr Aljahdali
 * Joud Kaki
 
