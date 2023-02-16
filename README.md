@@ -23,7 +23,7 @@
 <!--Purpose of the project-->
 This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
 
-<img src="https://github.com/AichaSidiya/Project_School/blob/main/ezgif.com-video-to-gif.mp4" width = 400 height = 150/>
+[]!(https://github.com/AichaSidiya/Project_School/blob/main/ezgif.com-video-to-gif.mp4)
 
 
 <!--Header 2 description of the project-->
