@@ -25,6 +25,7 @@ This poject is a Stars University database. The purpose of this project is to bu
 
 <img src="https://github.com/AichaSidiya/Project_School/blob/main/demoSchool.gif" width="1000" height="500"/>
 
+
 <!--Header 2 description of the project-->
 ## Description
 <p style="text-align: justify">
