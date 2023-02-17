@@ -10,7 +10,7 @@
     + [Header Files](#header-files) <!--Link to Dependencies-->
     + [Source Files](#source-files) <!--Link to Installation-->
   * [Built With](#built-with)
-  * [Installation](#installation) <!--Link to the steps for launching the project-->
+  * [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
     + [Help](#help)
   * [Authors](#authors) <!--Link to the Contributors of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
