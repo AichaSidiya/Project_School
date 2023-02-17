@@ -1,19 +1,5 @@
 <!--Title-->
 # Stars University 
-<!--Content Table-->
-## Content
-- [Stars University](#stars-university) <!--Link to the title of the project-->
-  * [Purpose](#purpose) <!--Link to the purpose of the project-->
-  * [Description](#description) <!--Link to the description of the project-->
-  * [Menu](#menu) <!--Link to the description of the project-->
-  * [Files](#files) <!--Link to the description of the project-->
-    + [Header Files](#header-files) <!--Link to Dependencies-->
-    + [Source Files](#source-files) <!--Link to Installation-->
-  * [Built With](#built-with)
-  * [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
-    + [Help](#help)
-  * [Authors](#authors) <!--Link to the Contributors of the project-->
-  * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
 ## Purpose
 <!--Purpose of the project-->
