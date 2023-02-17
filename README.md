@@ -10,7 +10,7 @@
     + [Header Files](#header-files) <!--Link to Dependencies-->
     + [Source Files](#source-files) <!--Link to Installation-->
   * [Built With](#built-with)
-  * [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
+  * [Installation](#installation) <!--Link to the steps for launching the project-->
     + [Help](#help)
   * [Authors](#authors) <!--Link to the Contributors of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
@@ -65,7 +65,11 @@ The project is a menu driven program divided into multiple class. The program sh
 * C++
 
 <!--Header 3 installation and launching the project-->
-## How to run the program
+## Installation
+* Clone the repository to your local machine:
+```
+git clone https://github.com/AichaSidiya/Project_School.git
+```
 * Install [g++ 8.1.0 (MinGW)](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
 * Compile the project using: 
 <!--commands to run the program "make project" compile the program--> 
